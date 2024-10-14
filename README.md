@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/883586fc-5eca-4272-89b4-d20ab304de3e)
 
-A multiplayer wish-granting fountain on the internet. What do you really want?
+A multiplayer wish-granting fountain on the internet. Tell me, what do you really want?
 
 [Make a Wish Now](https://fountain.nmn.gl/)
 
