@@ -1,25 +1,13 @@
-# Welcome to Next.js
+# The Fountain
 
-This is the most minimal starter for your Next.js project.
+![image](https://github.com/user-attachments/assets/883586fc-5eca-4272-89b4-d20ab304de3e)
 
-## Deploy your own
+A multiplayer wish-granting fountain on the internet. What do you really want?
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/hello-world&project-name=hello-world&repository-name=hello-world)
+[Make a Wish Now](https://fountain.nmn.gl/)
 
-## How to use
+## About
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+An experiment by [Namanyay](https://nmn.gl), which came to life after I saw a HackerNews post about a new [realtime DB](https://news.ycombinator.com/item?id=41322281)
 
-```bash
-npx create-next-app --example hello-world hello-world-app
-```
-
-```bash
-yarn create next-app --example hello-world hello-world-app
-```
-
-```bash
-pnpm create next-app --example hello-world hello-world-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+_Content Warning: Due to the unmoderated nature of the public internet, consider yourself forewarned for what wishes you might see_
